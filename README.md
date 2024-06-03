@@ -1,7 +1,7 @@
 ## Hello there! This is Gustavo de Souza.
 
 - 🔭 I’m currently Studying in the Federal Institute - Campus Bom Jesus da Lapa
-- 🌱 I’m currently learning JavaScript, React and PHP.
+- 🌱 I’m currently learning TypeScript, React and PHP.
 - 😄 Pronouns: He/Him
 
 ![Souzinhaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzinhaaz&theme=tokyonight)
@@ -10,7 +10,7 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
