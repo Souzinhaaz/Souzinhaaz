@@ -1,7 +1,7 @@
 ## Hello there! This is Gustavo de Souza.
 
 - 🔭 I’m currently Studying in the Federal Institute - Campus Bom Jesus da Lapa
-- 🌱 I’m currently learning TypeScript, React and PHP.
+- 🌱 I’m currently learning JavaScript, TypeScript, React and PHP.
 - 😄 Pronouns: He/Him
 
 ![Souzinhaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzinhaaz&theme=tokyonight)
