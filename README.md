@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently Studying in the Federal Institute - Campus Bom Jesus da Lapa
 - 🌱 I’m currently learning JavaScript, TypeScript, React and PHP.
-- 😄 Pronouns: He/Him
+- 😄 Always learning and Developing.
 
 ![Souzinhaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzinhaaz&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzinhaaz&layout=compact&langs_count=16&theme=tokyonight)  
