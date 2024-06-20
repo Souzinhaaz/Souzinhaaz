@@ -5,6 +5,7 @@
 - 🔭 I’m currently Studying in the Federal Institute - Campus Bom Jesus da Lapa
 - 🌱 I’m currently learning JavaScript, TypeScript, React and PHP.
 - 😄 Always learning and Developing.
+- ⛹️‍♂️ I like to play sports and play guitar.
 
 ![Souzinhaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzinhaaz&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzinhaaz&layout=compact&langs_count=16&theme=tokyonight)  
