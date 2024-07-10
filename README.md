@@ -3,7 +3,7 @@
 # Hello there! I'm Gustavo de Souza.
 
 - 🔭 I’m currently Studying in the Federal Institute - Campus Bom Jesus da Lapa
-- 🌱 I’m currently learning NodeJS, TypeScript, React and PHP.
+- 🌱 I’m currently learning NodeJS, TypeScript, Django, React and PHP.
 - 😄 Always learning and Developing.
 - ⛹️‍♂️ I like to play sports and play guitar.
 
