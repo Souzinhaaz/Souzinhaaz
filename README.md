@@ -1,4 +1,4 @@
-![banner_souza](banner_souza.png)
+<img src="banner_souza.png" alt="Banner Souza" width="800">
 
 # Hello there! I'm Gustavo de Souza.
 
@@ -9,6 +9,8 @@
 
 ![Souzinhaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzinhaaz&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzinhaaz&layout=compact&langs_count=16&theme=tokyonight)  
+
+![computer-illustration](https://github.com/user-attachments/assets/7684061d-bace-40f8-9f5e-9d02ec6525e9)
 
 ## My Skills
 
