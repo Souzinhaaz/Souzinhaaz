@@ -2,10 +2,15 @@
 
 # Hello there! I'm Gustavo de Souza.
 
-- 🔭 I’m currently Studying in the Federal Institute - Campus Bom Jesus da Lapa
-- 🌱 I’m currently learning NodeJS, TypeScript, Django, React and PHP.
-- 😄 Always learning and Developing.
-- ⛹️‍♂️ I like to play sports and play guitar.
+<ul>
+  <li>🔭 I’m currently Studying in the Federal Institute - Campus Bom Jesus da Lapa</li> </br>
+  
+  <li>🌱 I’m currently learning NodeJS, TypeScript, Django, React and PHP.</li> </br>
+  
+  <li>😄 Always learning and Developing.</li> </br>
+  
+  <li>⛹️‍♂️ I like to play sports and play guitar.</li> </br>
+</ul>
 
 ![Souzinhaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzinhaaz&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzinhaaz&layout=compact&langs_count=16&theme=tokyonight)  
@@ -14,7 +19,7 @@
 
 ## My Skills
 
-Main Stack: </br>
+### 📚 Main Stack: </br>
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" target="_blank">
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.JS Badge" target="_blank">
@@ -26,27 +31,27 @@ Main Stack: </br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" target="_blank" />
 </div> </br>
 
-Databases </br>
+### 💿 Databases: </br>
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
 </div> </br>
 
-Cloud </br>
+### ☁️ Cloud: </br>
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge">
 </div> </br>
 
 
-Workstation Tools </br>
+### 🔧 Workstation Tools: </br>
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger Badge">
 </div> </br> 
 
-## Contact
+## Contact: 📱
   <a href="https://www.youtube.com/channel/UC_jT3afzLKlpgllK4ohaLBA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/souzalzx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/souzinhaaz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
